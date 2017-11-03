@@ -1,0 +1,2 @@
+# touchSlider
+touchmove and autoPlay
